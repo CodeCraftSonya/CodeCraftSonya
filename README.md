@@ -7,8 +7,7 @@
 - 🌱 Learn JavaScript 
 - 🌟 Love exploring something new in IT
 - 📫 How to reach me : Telegram @SonyaOraz
-
----
+  
 --- 
 
 <h2>Languages and Tools :</h2>
