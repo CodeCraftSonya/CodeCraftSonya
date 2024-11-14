@@ -1,4 +1,4 @@
-[![Sofia's GitHub stats](https://github-readme-stats.vercel.app/apiSonyaProjects=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Sofia's GitHub stats](https://github-readme-stats.vercel.app/apiSonyaProjects=anuraghazra)]
 
 - 👋 Hi, I’m Sonya
 - 👀 I’m interested in Fullstack Development
