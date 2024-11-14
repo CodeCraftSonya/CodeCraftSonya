@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sofia</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-![GitHub watchers](https://img.shields.io/github/watchers/CodeCraftSonya/CodeCraftSonya)
 <h3 align="center">Beginner full stack developer and computer science student</h3>
 <h2>About Me:</h2>
 
