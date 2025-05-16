@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sofia</a> 
-<h3 align="center">Beginner full stack developer and computer science student</h3>
+<h3 align="center">Full stack developer</h3>
 <h2>About Me:</h2>
 
-- 👩‍💻 I’m interested in Fullstack Development
-- 🌱 Learn JavaScript 
 - 🌟 Love exploring something new in IT
 - 📫 How to reach me : Telegram @SonyaOraz
   
