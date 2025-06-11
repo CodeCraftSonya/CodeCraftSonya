@@ -2,8 +2,8 @@
 <h3 align="center">Full stack developer</h3>
 <h2>About Me:</h2>
 
-- 🌟 Love exploring something new in IT
-- 📫 How to reach me : Telegram @SonyaOraz
+- :star2: Love exploring something new in IT
+- :mailbox: How to reach me : Telegram @SonyaOraz
   
 --- 
 
@@ -25,10 +25,21 @@
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp; -->
 </div>
 <h2>Pet Projects</h2>
-| :gift: Projects |
-|-------|
-| Alice |
-| Bob   |
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>:gift: Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/CodeCraftSonya/stellar-burgers"><b>React Redux Burger Builder</b></a></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/CodeCraftSonya/production-project"><b>Production Project</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftSonya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
