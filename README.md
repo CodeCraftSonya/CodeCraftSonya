@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp; -->
 </div>
-<h2>Pet Projects</h2>
+<h2>Pet Projects:</h2>
 <table>
   <thead align="center">
     <tr border: none;>
