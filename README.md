@@ -24,6 +24,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp; -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="SQLite"  alt="SQLite" width="40" height="40"/>&nbsp; -->
 </div>
+<h2>Pet Projects</h2>
+| :gift: Projects |
+|-------|
+| Alice |
+| Bob   |
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraftSonya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
